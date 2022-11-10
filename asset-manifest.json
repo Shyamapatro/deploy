@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Shyamapatro/deploy/static/css/main.073c9b0a.css",
-    "main.js": "/Shyamapatro/deploy/static/js/main.36db18ee.js",
-    "index.html": "/Shyamapatro/deploy/index.html",
-    "main.073c9b0a.css.map": "/Shyamapatro/deploy/static/css/main.073c9b0a.css.map",
-    "main.36db18ee.js.map": "/Shyamapatro/deploy/static/js/main.36db18ee.js.map"
+    "main.css": "/deploy/static/css/main.073c9b0a.css",
+    "main.js": "/deploy/static/js/main.36db18ee.js",
+    "index.html": "/deploy/index.html",
+    "main.073c9b0a.css.map": "/deploy/static/css/main.073c9b0a.css.map",
+    "main.36db18ee.js.map": "/deploy/static/js/main.36db18ee.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
